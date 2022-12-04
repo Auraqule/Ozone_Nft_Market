@@ -2,6 +2,9 @@
 
 ## This is an NFT marketplace WEB 3.0 project
 
+## Description 
+- An NFT Marketplace where users can MINT, LIST, BUY AND SELL NFTS | DIGITAL ARTS
+
 ## Technology Stack & Tools 😊
 
 - Solidity (Writing Smart Contract)
