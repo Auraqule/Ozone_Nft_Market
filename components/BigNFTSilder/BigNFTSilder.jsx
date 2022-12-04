@@ -12,11 +12,11 @@ import Button from "../Button/Button";
 const BigNFTSilder = () => {
   const [idNumber, setIdNumber] = useState(0);
 
-  const sliderData = [
+   const sliderData = [
     {
       title: "Hello NFT",
       id: 1,
-      name: "Daulat Hussain",
+      name: "Christian Peters",
       collection: "GYm",
       price: "00664 ETH",
       like: 243,
@@ -32,7 +32,7 @@ const BigNFTSilder = () => {
     {
       title: "Buddy NFT",
       id: 2,
-      name: "Christian Peters Hussain",
+      name: "Ben Praise",
       collection: "Home",
       price: "0000004 ETH",
       like: 243,
@@ -46,9 +46,9 @@ const BigNFTSilder = () => {
       },
     },
     {
-      title: "Gym NFT",
+      title: "Gift NFT",
       id: 3,
-      name: "Raayan Hussain",
+      name: "Wen Ai",
       collection: "GYm",
       price: "0000064 ETH",
       like: 243,
