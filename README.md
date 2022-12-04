@@ -26,14 +26,14 @@
 ### 2. Install Dependencies:
 
 ```
-$ cd ozone_nft_marketplace
+$ cd ozone_nft_market
 $ npm install
 ```
 
 ### 3. Boot up local development blockchain
 
 ```
-$ cd ozone_nft_marketplace
+$ cd ozone_nft_market
 $ npx hardhat node
 ```
 
